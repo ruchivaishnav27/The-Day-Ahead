@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
     line-height: 1;
   }
@@ -9,16 +9,16 @@ body {
     border: none;
     resize: none;
     color: #000000;
-    border-left: 1px solid black;
+    border-left: 3px solid black;
     padding: 10px;
   }
   
   .jumbotron {
     text-align: center;
     background-color: transparent;
-    color: black;
-    border-radius: 0;
-    border-bottom: 10px solid black;
+    color: #000397;
+    border-radius: 5px;
+    border-bottom: 8px solid black;
   }
   
   .description{
@@ -27,7 +27,6 @@ body {
   
   .time-block{
     text-align: center;
-    border-radius: 15px;
   }
   
   .row {
@@ -39,21 +38,21 @@ body {
   .hour {
     background-color: #ffffff;
     color: #000000;
-    border-top: 1px dashed #000000;
+    border-top: 1px solid #000000;
   }
   
   .past {
-    background-color: #d3d3d3;
+    background-color: #a3a3a3;
     color: white;
   }
   
   .present {
-    background-color: #ff6961;
+    background-color: #a90800;
     color: white;
   }
   
   .future {
-    background-color: #77dd77;
+    background-color: #00bf00;
     color: white;
   }
   
@@ -61,7 +60,7 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06AED5;
+    background-color: #000397;
     color: white;
   }
   
