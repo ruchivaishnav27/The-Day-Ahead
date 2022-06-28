@@ -1,12 +1,12 @@
-# WorkDayScheduler
+# The Day Ahead
 
 ## Description
 
-This website provides a daily scedhule where one can write notes and keep track of their schedule during the day.  This website was made using HTML, CSS, and JavaScript. No challenges were faced in creating this website.  In the future, I would like to make this website more attractive and more interactive.
+This website provides a daily scedhule where one can write notes and keep track of of events in their schedule during the day.  This website was made using HTML, CSS, and JavaScript.  No challenges were faced in creating this website and in the future, I would like to make this website more attractive and more interactive.
 
 ## Installation
 
-To view this website, please click on the following live link: 
+To view this website, please click on the following link: 
 
 ## Usage
 
