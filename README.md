@@ -6,7 +6,7 @@ This website provides a daily scedhule where one can write notes and keep track 
 
 ## Installation
 
-To view this website, please click on the following link: 
+To view this website, please click on the following link: https://ruchivaishnav27.github.io/WorkDayScheduler/
 
 ## Usage
 
